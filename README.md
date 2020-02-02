@@ -7,9 +7,7 @@ This is the template made for the Personal Website Tutorial I wrote on Medium
 -  Learning how to navigate through the command line
 -  Creating a project folder on your desktop
 -  Customizing html and css files on Atom IDE
--  How to create a GitHub Repository
--  Pushing your code to GitHub via Command-Line
--  Making your site live via GitHub Pages
+-  GitHub configurations
 -  Additional Resources
 
 ## How the site looks like using the template 
